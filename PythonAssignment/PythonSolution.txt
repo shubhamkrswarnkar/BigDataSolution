@@ -11,3 +11,7 @@ q4
 ans
 q5
 ans
+q7
+ans
+q8
+ans
